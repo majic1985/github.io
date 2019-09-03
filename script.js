@@ -1,6 +1,6 @@
 $(document).ready(function() {
 
-  var apiRoot = 'https://fierce-badlands-52398.herokuapp.com/v1/task/';
+  var apiRoot = 'https://radiant-sierra-69726.herokuapp.com//v1/task/getTasks';
   var datatableRowTemplate = $('[data-datatable-row-template]').children()[0];
   var tasksContainer = $('[data-tasks-container]');
 
